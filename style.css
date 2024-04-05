@@ -1,0 +1,27 @@
+body{
+    background-color: aqua;
+    background-image: url(Images/basketballG.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: left;
+
+}
+
+.game{
+    background-color: hsla(117, 100%, 43%, 0.762);
+    text-align: center;
+}
+
+.Button{
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 400px;
+    border: 50 px;
+    border-radius: 500px;
+    font: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+footer{
+    text-align: center;
+}
