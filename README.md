@@ -32,7 +32,7 @@ The player tries to score by throwing the ball into the hoop within a given time
 ## 📸 Screenshots
 *(Add your game screenshots here)*  
 Example:  
-![Basketball Game Screenshot](assets/screenshot.png)
+![Basketball Game Screenshot](assets/BasKetballSS.png)
 
 ---
 
